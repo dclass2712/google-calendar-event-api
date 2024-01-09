@@ -14,7 +14,7 @@ public class GooglecalendarApplication {
 		SpringApplication.run(GooglecalendarApplication.class, args);
 
         List<String> listOfAttendee = Arrays.asList(
-//          LIST_OF_MAIL_YOU_WANT_TO_ADD_IN_EVENT_(GUESTS)
+//          LIST_OF_MAIL_YOU_WANT_TO_ADD_IN_EVENT_(GUESTS)_OR_ATTENDEE
         );
 
         try {
